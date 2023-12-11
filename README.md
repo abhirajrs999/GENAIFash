@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # GEN_AI_FC
-=======
+
 # CYB3R
 ### Purpose
 
@@ -59,4 +59,3 @@ streamlit run main.py
 ## [Built With/Dependencies](dependencies)
 
 - Refer to requirements.txt
->>>>>>> 6ff9213 (Hello)
