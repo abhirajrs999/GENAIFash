@@ -56,6 +56,6 @@ streamlit run main.py
 
 
 
-## [Built With/Dependencies](dependencies)
+## [Built With/Dependencies]
 
 - Refer to requirements.txt
